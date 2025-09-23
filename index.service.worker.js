@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1758582278|3420644797';
+const CACHE_VERSION = '1758588796|1459717835';
 /** @type {string} */
 const CACHE_PREFIX = 'learning worlds-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
